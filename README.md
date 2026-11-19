@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 ### Carlo Perini
 
 B.Sc. student in **Energy Engineering** at **Politecnico di Milano**.
