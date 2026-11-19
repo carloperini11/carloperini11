@@ -1,7 +1,8 @@
 ## Hi there 
 ### Carlo Perini
 
-B.Sc. student in **Energy Engineering** at **Politecnico di Milano**.
+**Bachelor's in Energy Engineering** @ **Politecnico di Milano**, currently in Erasmus exchange @ **Universidad Politécnica de Madrid**
+
 
 - **Focus:** Nuclear Engineering, Thermal-Hydraulics, Reactor Physics, Numerical Modeling
 - **Tools:** Python, OpenMC, MATLAB, EES
