@@ -1,5 +1,4 @@
-## Hi there 
-### Carlo Perini
+### Hello there, I'm Carlo Perini
 
 **Bachelor's in Energy Engineering** @ **Politecnico di Milano**, currently in Erasmus exchange @ **Universidad Politécnica de Madrid**
 
